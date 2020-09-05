@@ -1,0 +1,50 @@
+from,to,importance,type
+Red fox,Feral cat,Major,Negative
+Red fox,European rabbit,Major,Predator-prey
+Red fox,Black rat,Minor,Predator-prey
+Red fox,House mouse,Minor,Predator-prey
+Red fox,Brushtail possum,Major,Predator-prey
+Red fox,Ringtail possum,Major,Negative
+Red fox,Swamp wallaby,Major,Negative
+Red fox,Little penguin,Major,Negative
+Red fox,Short-tailed Shearwater,Major,Negative
+Red fox,Cape barren geese,Major,Negative
+Feral cat,European rabbit,Unknown,Negative
+Feral cat,Black rat,Major,Predator-prey
+Feral cat,House mouse,Major,Predator-prey
+Feral cat,Little penguin,Minor,Negative
+Feral cat,Short-tailed Shearwater,Major,Negative
+Feral cat,Ringtail possum,Major,Negative
+Feral cat,Brushtail possum,Minor,Negative
+Black rat,House mouse,Unknown,Negative
+Black rat,Short-tailed Shearwater,Unknown,Negative
+Black rat,Little Penguin,Unknown,Negative
+Black rat,Woodland birds,Major,Negative
+Black rat,Terrestrial Invertebrates,Major,Predator-prey
+House mouse,Short-tailed Shearwater,Unknown,Negative
+House mouse,Little penguin,Unknown,Negative
+House mouse,Terrestrial Invertebrates,Major,Predator-prey
+European rabbit,Red fox,Major,Positive
+European rabbit,Feral cat,Major,Positive
+European rabbit,Grasslands,Major,Negative
+Myxoma/calici,European rabbit,Unknown,Negative
+Little raven,Little penguin,Major,Negative
+Little raven,Short-tailed shearwater,Unknown,Negative
+Raptors,European Rabbit,Minor,Predator-prey
+Raptors,Black rat,Major,Predator-prey
+Raptors,House mouse,Major,Predator-prey
+Little penguin,Grasslands,Minor,Positive
+Little penguin,Herbfield,Minor,Positive
+Short-tailed shearwater,Herbfield,Major,Positive
+Short-tailed shearwater,Grasslands,Minor,Positive
+Woodlands,Black rat,Major,Positive
+Woodlands,Ringtail possum,Major,Positive
+Woodlands,Woodland birds,Major,Positive
+Woodlands,Brushtail possum,Major,Positive
+Woodlands,Swamp wallaby,Major,Positive
+Grasslands,House mouse,Major,Positive
+Grasslands,European rabbit,Major,Positive
+Grasslands,Terrestrial Invertebrates,Major,Positive
+Herbfield,Short-tailed Shearwater,Major,Positive
+Herbfield,Cape Barren geese,Major,Positive
+Herbfield,Little Penguin,Major,Positive
